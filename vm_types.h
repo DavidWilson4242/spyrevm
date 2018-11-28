@@ -12,10 +12,12 @@ typedef uint16_t U16;
 typedef uint32_t U32;
 typedef uint64_t U64;
 typedef uint64_t SPY_ADDR;
-typedef int8_t   S8;
-typedef int16_t  S16;
-typedef int32_t  S32;
-typedef int64_t  S64;
+typedef int8_t   I8;
+typedef int16_t  I16;
+typedef int32_t  I32;
+typedef int64_t  I64;
+typedef float    F32;
+typedef double   F64;
 
 typedef struct Spyre_Process         Spyre_Process;
 typedef struct Spyre_State           Spyre_State;
